@@ -1,0 +1,1 @@
+## Nerdcom Chat Wordpress Plugin
